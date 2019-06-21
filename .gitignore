@@ -1,11 +1,12 @@
 # MAC OS files
 .DS_Storei
-weights_heights.csv
-advertising.csv
-_02195759eb952fcd23b60d5b07594b7b_winequality-red.csv
-bikes_rent.csv
-_3332ad722fa992447b07c4002f630a5a_bioresponse.csv
-checkins.dat
-dt.csv
-data_task2.csv
-data_task1.csv
+/module2/task1/weights_heights.csv
+/module2/task2/advertising.csv
+/module2/5week/_02195759eb952fcd23b60d5b07594b7b_winequality-red.csv
+/module2/task3/bikes_rent.csv
+/module2/task6/_3332ad722fa992447b07c4002f630a5a_bioresponse.csv
+/module3/week1/checkins.dat
+/module3/week2/dt.csv
+/module3/week2/data_task2.csv
+/module3/week2/data_task1.csv
+
