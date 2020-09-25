@@ -1,0 +1,15 @@
+# Ignore all files of dataset
+*.zip
+*.xls
+*.dat
+*.csv
+*.zip
+*.txt
+*.xml
+*.json
+
+# Ignore mac os files and checkpoints
+
+*.DS_store
+*.ipynb_checkpoints
+
